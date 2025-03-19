@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Sumanth 👋</h1>
 <h3 align="center">🚀 Full Stack Java Developer | 🎨 Figma UI Designer</h3>
 
 ![Profile Banner](https://user-images.githubusercontent.com/your-banner-image.png)
