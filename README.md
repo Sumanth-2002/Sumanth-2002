@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me
-- 💻 Full Stack Developer | Java | Spring Boot | React.js | Node.js  
+- 💻 Full Stack Developer | Java | Spring Boot | Angular.js | Node.js  
 - 🎨 UI/UX Enthusiast | Figma Designer | Wireframes & Prototypes  
 - ⚡ Passionate about **building scalable web apps & user-friendly UI**  
 - 🚀 Love working on **open-source projects & collaborating with devs**  
@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack  
 ### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
@@ -62,6 +62,6 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanth-thotamsetty)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thotamsettysumanth@gmail.com)  
