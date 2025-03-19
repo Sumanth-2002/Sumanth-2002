@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Sumanth 👋</h1>
 <h3 align="center">🚀 Full Stack Java Developer | 🎨 Figma UI Designer</h3>
 
-![Profile Banner](https://github.com/user-attachments/assets/0cdbcda6-f84a-41f8-8f63-f0d20550ae0b)
+![Profile Banner](https://github.com/user-attachments/assets/0cdbcda6-f84a-41f8-8f63-f0d20550ae0b?raw=true)
+
 
 ---
 
