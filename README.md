@@ -63,5 +63,5 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanth-thotamsetty)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)]([https://yourportfolio.com](https://vercel.com/sumanth-2002s-projects/porfolio/7NEJhMkffcFZ6oH4Mys5BC5Z8DQA))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://porfolio-8e3ckt18k-sumanth-2002s-projects.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thotamsettysumanth@gmail.com)  
